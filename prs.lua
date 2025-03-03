@@ -1,3 +1,5 @@
+setfpscap(5)
+task.wait(2)
 getgenv().Config = {
     ["AutoQuest"] = true,
     ["FarmEventPets"] = true,
